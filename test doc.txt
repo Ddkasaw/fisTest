@@ -1,0 +1,2 @@
+How To: Connect to the Connect REST API with Alteryx Designer
+https://community.alteryx.com/t5/Alteryx-Connect-Knowledge-Base/How-To-Connect-to-the-Connect-REST-API-with-Alteryx-Designer/ta-p/490241
